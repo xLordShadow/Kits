@@ -1,0 +1,84 @@
+#Kits by mal0ne_23
+#DO NOT DISTRIBUTE!
+
+kits:
+ starter: #Kit name
+  cooldown: 2 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:12:1"
+ nemo: #Kit name
+  cooldown: 1 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:11:1"
+ legend: #Kit name
+  cooldown: 3 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:2:1"
+ ultimate: #Kit name
+  cooldown: 10 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:3:1"
+ titan: #Kit name
+  cooldown: 12 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:4:1"
+ zeus: #Kit name
+  cooldown: 15 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:5:1"
+ god: #Kit name
+  cooldown: 20 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:6:1"
+ godeater: #Kit name
+  cooldown: 25 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:7:1"
+ wd: #Kit name
+  cooldown: 30 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:8:1"
+ ud: #Kit name
+  cooldown: 40 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:9:1"
+ md: #Kit name
+  cooldown: 50 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:13:1"
+ ed: #Kit name
+  cooldown: 55 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:14:1"
+ apollo: #Kit name
+  cooldown: 32 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:10:1"
+ hades: #Kit name
+  cooldown: 32 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:14:1"
+ ares: #Kit name
+  cooldown: 32 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:27:1"
+ boreas: #Kit name
+  cooldown: 32 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:22:1"
+ hercules: #Kit name
+  cooldown: 32 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:23:1"
+ phoenix: #Kit name
+  cooldown: 32 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:24:1"
+ arcane: #Kit name
+  cooldown: 32 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:25:1"
+ aphros: #Kit name
+  cooldown: 32 #Cooldown before a player can get the kit again in HOURS
+  items: #Item format: ID:DMG:CNT or ID:DMG:CNT:NAME
+   - "146:26:1"

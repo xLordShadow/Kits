@@ -1,0 +1,11 @@
+name: Kits
+author: mal0ne_23
+description: Easily get kits with a cooldown!
+version: 1.0.0
+main: kits\Kits
+api: [2.0.0,3.0.0]
+
+permissions:
+ kit.cmd:
+  description: Permission to use /kit
+  default: true
